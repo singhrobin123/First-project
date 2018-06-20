@@ -1,0 +1,22 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhrobin123/First-project.git"
+  },
+  "author": "Robin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singhrobin123/First-project/issues"
+  },
+  "homepage": "https://github.com/singhrobin123/First-project#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
